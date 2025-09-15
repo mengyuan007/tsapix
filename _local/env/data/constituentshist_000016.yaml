@@ -1,0 +1,250 @@
+- securityAbbrEn: China Petroleum & Chemical Corporation
+  securityAbbr: "\u4E2D\u56FD\u77F3\u5316"
+  inDate: '2025-09-15'
+  securityCode: '600028'
+  marketSource: '1'
+- securityAbbrEn: CITIC Securities Company Limited
+  securityAbbr: "\u4E2D\u4FE1\u8BC1\u5238"
+  inDate: '2025-09-15'
+  securityCode: '600030'
+  marketSource: '1'
+- securityAbbrEn: SANY HEAVY INDUSTRY CO.,LTD
+  securityAbbr: "\u4E09\u4E00\u91CD\u5DE5"
+  inDate: '2025-09-15'
+  securityCode: '600031'
+  marketSource: '1'
+- securityAbbrEn: China Merchants Bank Co., Ltd.
+  securityAbbr: "\u62DB\u5546\u94F6\u884C"
+  inDate: '2025-09-15'
+  securityCode: '600036'
+  marketSource: '1'
+- securityAbbrEn: Poly Developments and Holdings Group Co., Ltd.
+  securityAbbr: "\u4FDD\u5229\u53D1\u5C55"
+  inDate: '2025-09-15'
+  securityCode: '600048'
+  marketSource: '1'
+- securityAbbrEn: CHINA UNITED NETWORK COMMUNICATIONS  LIMITED
+  securityAbbr: "\u4E2D\u56FD\u8054\u901A"
+  inDate: '2025-09-15'
+  securityCode: '600050'
+  marketSource: '1'
+- securityAbbrEn: China CSSC Holdings Limited
+  securityAbbr: "\u4E2D\u56FD\u8239\u8236"
+  inDate: '2025-09-15'
+  securityCode: '600150'
+  marketSource: '1'
+- securityAbbrEn: Jiangsu Hengrui Pharmaceuticals Co.,Ltd.
+  securityAbbr: "\u6052\u745E\u533B\u836F"
+  inDate: '2025-09-15'
+  securityCode: '600276'
+  marketSource: '1'
+- securityAbbrEn: Wanhua Chemical Group Co.,Ltd.
+  securityAbbr: "\u4E07\u534E\u5316\u5B66"
+  inDate: '2025-09-15'
+  securityCode: '600309'
+  marketSource: '1'
+- securityAbbrEn: NARI Technology Co., Ltd.
+  securityAbbr: "\u56FD\u7535\u5357\u745E"
+  inDate: '2025-09-15'
+  securityCode: '600406'
+  marketSource: '1'
+- securityAbbrEn: KWEICHOW MOUTAI CO.,LTD.
+  securityAbbr: "\u8D35\u5DDE\u8305\u53F0"
+  inDate: '2025-09-15'
+  securityCode: '600519'
+  marketSource: '1'
+- securityAbbrEn: Haier Smart Home Co., Ltd.
+  securityAbbr: "\u6D77\u5C14\u667A\u5BB6"
+  inDate: '2025-09-15'
+  securityCode: '600690'
+  marketSource: '1'
+- securityAbbrEn: AVIC SHENYANG AIRCRAFT COMPANY LIMITED
+  securityAbbr: "\u4E2D\u822A\u6C88\u98DE"
+  inDate: '2025-09-15'
+  securityCode: '600760'
+  marketSource: '1'
+- securityAbbrEn: SHANXI XINGHUACUN FEN WINE FACTORY  CO.,LTD
+  securityAbbr: "\u5C71\u897F\u6C7E\u9152"
+  inDate: '2025-09-15'
+  securityCode: '600809'
+  marketSource: '1'
+- securityAbbrEn: INNER MONGOLIA YILI INDUSTRIAL GROUP CO.,LTD
+  securityAbbr: "\u4F0A\u5229\u80A1\u4EFD"
+  inDate: '2025-09-15'
+  securityCode: '600887'
+  marketSource: '1'
+- securityAbbrEn: China Yangtze Power Co.,ltd.
+  securityAbbr: "\u957F\u6C5F\u7535\u529B"
+  inDate: '2025-09-15'
+  securityCode: '600900'
+  marketSource: '1'
+- securityAbbrEn: ''
+  securityAbbr: "\u4E2D\u56FD\u79FB\u52A8"
+  inDate: '2025-09-15'
+  securityCode: '600941'
+  marketSource: '1'
+- securityAbbrEn: LONGi Green Energy Technology Co., Ltd.
+  securityAbbr: "\u9686\u57FA\u7EFF\u80FD"
+  inDate: '2025-09-15'
+  securityCode: '601012'
+  marketSource: '1'
+- securityAbbrEn: China Shenhua Energy Company Limited
+  securityAbbr: "\u4E2D\u56FD\u795E\u534E"
+  inDate: '2025-09-15'
+  securityCode: '601088'
+  marketSource: '1'
+- securityAbbrEn: Seres Group Co.,Ltd.
+  securityAbbr: "\u8D5B\u529B\u65AF"
+  inDate: '2025-09-15'
+  securityCode: '601127'
+  marketSource: '1'
+- securityAbbrEn: INDUSTRIAL BANK CO.,LTD.
+  securityAbbr: "\u5174\u4E1A\u94F6\u884C"
+  inDate: '2025-09-15'
+  securityCode: '601166'
+  marketSource: '1'
+- securityAbbrEn: Guotai Haitong Securities Co. Ltd.
+  securityAbbr: "\u56FD\u6CF0\u6D77\u901A"
+  inDate: '2025-09-15'
+  securityCode: '601211'
+  marketSource: '1'
+- securityAbbrEn: SHAANXI COAL INDUSTRY COMPANY LIMITED
+  securityAbbr: "\u9655\u897F\u7164\u4E1A"
+  inDate: '2025-09-15'
+  securityCode: '601225'
+  marketSource: '1'
+- securityAbbrEn: AGRICULTURAL BANK OF CHINA LIMITED
+  securityAbbr: "\u519C\u4E1A\u94F6\u884C"
+  inDate: '2025-09-15'
+  securityCode: '601288'
+  marketSource: '1'
+- securityAbbrEn: "PING AN INSURANCE\uFF08GROUP\uFF09 COMPANY OF CHINA, LTD."
+  securityAbbr: "\u4E2D\u56FD\u5E73\u5B89"
+  inDate: '2025-09-15'
+  securityCode: '601318'
+  marketSource: '1'
+- securityAbbrEn: BANK OF COMMUNICATIONS CO.,LTD.
+  securityAbbr: "\u4EA4\u901A\u94F6\u884C"
+  inDate: '2025-09-15'
+  securityCode: '601328'
+  marketSource: '1'
+- securityAbbrEn: INDUSTRIAL AND COMMERCIAL BANK OF CHINA LIMITED
+  securityAbbr: "\u5DE5\u5546\u94F6\u884C"
+  inDate: '2025-09-15'
+  securityCode: '601398'
+  marketSource: '1'
+- securityAbbrEn: ALUMINUM CORPORATION OF CHINA LIMITED
+  securityAbbr: "\u4E2D\u56FD\u94DD\u4E1A"
+  inDate: '2025-09-15'
+  securityCode: '601600'
+  marketSource: '1'
+- securityAbbrEn: China Pacific Insurance (Group) Co., Ltd.
+  securityAbbr: "\u4E2D\u56FD\u592A\u4FDD"
+  inDate: '2025-09-15'
+  securityCode: '601601'
+  marketSource: '1'
+- securityAbbrEn: CHINA LIFE INSURANCE COMPANY LIMITED
+  securityAbbr: "\u4E2D\u56FD\u4EBA\u5BFF"
+  inDate: '2025-09-15'
+  securityCode: '601628'
+  marketSource: '1'
+- securityAbbrEn: POSTAL SAVINGS BANK OF CHINA, LTD.
+  securityAbbr: "\u90AE\u50A8\u94F6\u884C"
+  inDate: '2025-09-15'
+  securityCode: '601658'
+  marketSource: '1'
+- securityAbbrEn: China State Construction Engineering Corporation Limited
+  securityAbbr: "\u4E2D\u56FD\u5EFA\u7B51"
+  inDate: '2025-09-15'
+  securityCode: '601668'
+  marketSource: '1'
+- securityAbbrEn: China Telecom Corporation Limited
+  securityAbbr: "\u4E2D\u56FD\u7535\u4FE1"
+  inDate: '2025-09-15'
+  securityCode: '601728'
+  marketSource: '1'
+- securityAbbrEn: CRRC Corporation Limited
+  securityAbbr: "\u4E2D\u56FD\u4E2D\u8F66"
+  inDate: '2025-09-15'
+  securityCode: '601766'
+  marketSource: '1'
+- securityAbbrEn: ''
+  securityAbbr: "\u4EAC\u6CAA\u9AD8\u94C1"
+  inDate: '2025-09-15'
+  securityCode: '601816'
+  marketSource: '1'
+- securityAbbrEn: PetroChina Company Limited
+  securityAbbr: "\u4E2D\u56FD\u77F3\u6CB9"
+  inDate: '2025-09-15'
+  securityCode: '601857'
+  marketSource: '1'
+- securityAbbrEn: China Tourism Group Duty Free Corporation Limited
+  securityAbbr: "\u4E2D\u56FD\u4E2D\u514D"
+  inDate: '2025-09-15'
+  securityCode: '601888'
+  marketSource: '1'
+- securityAbbrEn: Zijin Mining Group Company Limited
+  securityAbbr: "\u7D2B\u91D1\u77FF\u4E1A"
+  inDate: '2025-09-15'
+  securityCode: '601899'
+  marketSource: '1'
+- securityAbbrEn: COSCO SHIPPING Holdings Co., Ltd.
+  securityAbbr: "\u4E2D\u8FDC\u6D77\u63A7"
+  inDate: '2025-09-15'
+  securityCode: '601919'
+  marketSource: '1'
+- securityAbbrEn: China National Nuclear Power Co., Ltd.
+  securityAbbr: "\u4E2D\u56FD\u6838\u7535"
+  inDate: '2025-09-15'
+  securityCode: '601985'
+  marketSource: '1'
+- securityAbbrEn: BANK OF CHINA LIMITED
+  securityAbbr: "\u4E2D\u56FD\u94F6\u884C"
+  inDate: '2025-09-15'
+  securityCode: '601988'
+  marketSource: '1'
+- securityAbbrEn: WuXi AppTec Co., Ltd.
+  securityAbbr: "\u836F\u660E\u5EB7\u5FB7"
+  inDate: '2025-09-15'
+  securityCode: '603259'
+  marketSource: '1'
+- securityAbbrEn: OmniVision Integrated Circuits Group, Inc.
+  securityAbbr: "\u8C6A\u5A01\u96C6\u56E2"
+  inDate: '2025-09-15'
+  securityCode: '603501'
+  marketSource: '1'
+- securityAbbrEn: CMOC Group Limited
+  securityAbbr: "\u6D1B\u9633\u94BC\u4E1A"
+  inDate: '2025-09-15'
+  securityCode: '603993'
+  marketSource: '1'
+- securityAbbrEn: Montage Technology Co., Ltd.
+  securityAbbr: "\u6F9C\u8D77\u79D1\u6280"
+  inDate: '2025-09-15'
+  securityCode: '688008'
+  marketSource: '1'
+- securityAbbrEn: 'Advanced Micro-Fabrication Equipment Inc. China '
+  securityAbbr: "\u4E2D\u5FAE\u516C\u53F8"
+  inDate: '2025-09-15'
+  securityCode: '688012'
+  marketSource: '1'
+- securityAbbrEn: Hygon Information Technology Co., Ltd.
+  securityAbbr: "\u6D77\u5149\u4FE1\u606F"
+  inDate: '2025-09-15'
+  securityCode: '688041'
+  marketSource: '1'
+- securityAbbrEn: Beijing Kingsoft Office Software, Inc.
+  securityAbbr: "\u91D1\u5C71\u529E\u516C"
+  inDate: '2025-09-15'
+  securityCode: '688111'
+  marketSource: '1'
+- securityAbbrEn: Cambricon Technologies Corporation Limited
+  securityAbbr: "\u5BD2\u6B66\u7EAA"
+  inDate: '2025-09-15'
+  securityCode: '688256'
+  marketSource: '1'
+- securityAbbrEn: Semiconductor Manufacturing International Corporation
+  securityAbbr: "\u4E2D\u82AF\u56FD\u9645"
+  inDate: '2025-09-15'
+  securityCode: '688981'
+  marketSource: '1'
