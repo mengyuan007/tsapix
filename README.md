@@ -4,7 +4,7 @@
 After installation and some setup, you will get an Environment to test your ideas, to test strategies, and to play. Have Fun!
 <br><br>
 
-### :clock12: Installation
+## :clock12: Installation
 
 #### 1. Install Package 
 >[!NOTE]
@@ -27,7 +27,7 @@ at Line 8. Simply assign your target location to the parameter :jigsaw:```icloud
 #### 4. Personalise Environment Data
 As the component of Environment shall be flexible, you can decide which data to be ingested in your environment. Detailed illustration can be found in the following sections.
 
-###  :clock1: Personalise Environment Data
+##  :clock1: Personalise Environment Data
 #### 1. China Market - Price
 :jigsaw:```HistPX``` is the primary Class realise data ingestion.
 <br><br>
@@ -132,11 +132,11 @@ for _req in tqdm(_reqlist):
     app.reqHistoricalData(_reqid, _contract, _ltd, _bst[0], _bst[1], _bst[2], 1, 1, False, [])
 ```
 
-### :clock2: Maintenance
+## :clock2: Maintenance
 Database needs to be updated to include new information.
 You can write a task script and schedule it to run at expected frequency.
 
-### :clock3: Load Environment to Play
+## :clock3: Load Environment to Play
 A sample loading China Market Environment can be found [here](https://github.com/mengyuan007/tsapix/blob/main/_sample/playgroud_China.ipynb).
 
 ##### Example
@@ -158,9 +158,10 @@ xpd = xobj['Close']
 ><br><br>
 >All the environment data are supposed to be stored in Cube based structure for computing performance unless new technology with better perf be discovered / adopted in the future. Currently only China Market was stored in this way.
 
-### :clock4: Toolkits for your Play
+## :clock4: Toolkits for your Play
 ```tsapix==0.0.1``` is primarily for environment creation, some basic toolkits have been added. Advanced toolkits have not been purified to publish, they will be added in following versions, these include: 
 - autoML framework for AI/Machine Learning enthusiasts, easy the process of feature engineering and model selection
 - backtest framework to assemble strategy and get historic performance
 - perfPannel to track live performance of strategies
 - ...
+
