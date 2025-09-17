@@ -1,4 +1,4 @@
-# TSApiX - TS $${\color{black}api}$$ $${\color{blue}x}$$  
+# TSApiX - TS $${\color{purple}api}$$ $${\color{blue}x}$$  
 
 ## :snake: Create environment for Quants / Agents to play.
 
@@ -165,5 +165,6 @@ xpd = xobj['Close']
 - backtest framework to assemble strategy and get historic performance
 - perfPannel to track live performance of strategies
 - ...
+
 
 
