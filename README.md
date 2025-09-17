@@ -1,4 +1,5 @@
-# TSApiX
+# TSApiX - TS $${\color{black}api}$$ $${\color{blue}x}$$  
+
 ## :snake: Create environment for Quants / Agents to play.
 
 After installation and some setup, you will get an Environment to test your ideas, to test strategies, and to play. Have Fun!
@@ -164,4 +165,5 @@ xpd = xobj['Close']
 - backtest framework to assemble strategy and get historic performance
 - perfPannel to track live performance of strategies
 - ...
+
 
