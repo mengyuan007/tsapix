@@ -20,7 +20,7 @@ _logger.info("Touched EastMoney")
 
 ### ------------ API Endpoints ------------ 
 _furl_dict = {
-    'hist_px': """http://{}.push2his.eastmoney.com/api/qt/stock/kline/get?cb=&secid={}.{}&ut=fa5fd1943c7b386f172d6893dbfba10b&fields1=f1%2Cf2%2Cf3%2Cf4%2Cf5%2Cf6&fields2=f51%2Cf52%2Cf53%2Cf54%2Cf55%2Cf56%2Cf57%2Cf58%2Cf59%2Cf60%2Cf61&klt={}&fqt={}&end={}&lmt={}&_=?""",
+    'hist_px': """http://{}.push2his.eastmoney.com/api/qt/stock/kline/get?cb=&secid={}.{}&ut=fa5fd1943c7b386f172d6893dbfba10b&fields1=f61&klt={}&fqt={}&end={}&lmt={}&_=?""",
     'hist_cf': """https://push2his.eastmoney.com/api/qt/stock/fflow/daykline/get?cb=&lmt=0&klt=101&fields1=f1%2Cf2%2Cf3%2Cf7&fields2=f51%2Cf52%2Cf53%2Cf54%2Cf55%2Cf56%2Cf57%2Cf58%2Cf59%2Cf60%2Cf61%2Cf62%2Cf63%2Cf64%2Cf65&ut=b2884a393a59ad64002292a3e90d46a5&secid={}.{}&_=?""",
     'bk_industry_cf': """https://push2.eastmoney.com/api/qt/clist/get?cb=&fid=f62&po=1&pz=100&pn=1&np=1&fltt=2&invt=2&ut=b2884a393a59ad64002292a3e90d46a5&fs=m%3A90+t%3A2&fields=f12%2Cf14%2Cf2%2Cf3%2Cf62%2Cf184%2Cf66%2Cf69%2Cf72%2Cf75%2Cf78%2Cf81%2Cf84%2Cf87%2Cf204%2Cf205%2Cf124%2Cf1%2Cf13""",
     'bk_concept_cf': """https://push2.eastmoney.com/api/qt/clist/get?cb=&fid=f62&po=1&pz=500&pn=1&np=1&fltt=2&invt=2&ut=b2884a393a59ad64002292a3e90d46a5&fs=m%3A90+t%3A3&fields=f12%2Cf14%2Cf3%2Cf62""",
